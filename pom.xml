@@ -8,11 +8,11 @@
 		<version>2.2.6.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>io.javabrains</groupId>
-	<artifactId>course-api-data</artifactId>
+	<groupId>Application-VVKiev</groupId>
+	<artifactId>VVKiev-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>course-api-data</name>
-	<description>Demo project for Spring Boot</description>
+	<name>VVKiev-api</name>
+	<description>VVKiev api-server</description>
 
 	<properties>
 		<java.version>14</java.version>
